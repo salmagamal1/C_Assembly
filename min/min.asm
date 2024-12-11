@@ -1,3 +1,8 @@
+/*
+ * Problem 1
+ * Yomna Maged Ali 20221196
+ */
+
 .data
     #nums: .word 10, 31, 5, 7, 11, 3, 8, 40, 12, 4
     nums: .word 11, 2, 3, 7, 5, 10, 9, 22, 6, 1
