@@ -4,8 +4,8 @@
 Write a pure C program and the corresponding assembly program that gets the minimum
 element in an integer array of size 10 and prints a message with the minimum number.
 Deliverables:
--min.c 
--min.asm
+- min.c 
+- min.asm
 
 
 
