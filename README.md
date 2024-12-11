@@ -3,7 +3,8 @@
 >### Problem 1: [Using loops, branching and arrays]
 Write a pure C program and the corresponding assembly program that gets the minimum
 element in an integer array of size 10 and prints a message with the minimum number.
- Deliverables:
+
+Deliverables:
 - min.c 
 - min.asm
 
