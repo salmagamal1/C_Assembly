@@ -4,7 +4,7 @@
  */
 
 #include <stdio.h>
-//#include <stdlib.h>
+#include <stdlib.h>
 
 int main()
 {
@@ -33,8 +33,8 @@ int main()
     avg1=sum1/len1;
     avg2=sum2/len2;
 
-    printf("The average is in first array %.1f\n",avg1);
-    printf("The average is in second array %.1f\n",avg2);
+    printf("Average is %.1f\n",avg1);
+    printf("Average is %.1f\n",avg2);
 }
 
 /*If you use dynamic memory allocation*/
